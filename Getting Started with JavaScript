@@ -1,1 +1,80 @@
+//Download a code editor
+//  Have Chrome browser installed in order to access developer tools or press F12 on the keyboard 
+// To print Hello world
+
+console.log("Hello World !");
+
+//Comments 
+To comment inline use // single line comment 
+Multi-line comment /*This
+                    is a 
+                    multi line comment 
+                   */
+
+// Data Types and Variables 
+ /*1. undefined -- something that has not been defined
+ 2. null --means nothing
+ 3. boolean---- true or false
+ 4. string -- statements
+ 5.symbol--- an immutable primitive value that is unique
+ 6. number--- means a number
+ 7.object-- can store a lot of different key value pairs 
+ Variables -- allows a computer to store data 
+ To declare a variable use a var key word
+ i.e var myName = "Mar";*/
+ 
+ //Another way to declare a variable 
+ let hisName = "Macdonald";
+ const pi = 3.14;
+ 
+ //Difference between var, let and const
+ var =used throughout  your whole program
+ let = only be used within the scope of where you decleared that 
+ const = a variable that can never be changed.//if you try to change it you get an error.
+ 
+ // Storring values with assignment operataor
+  var a;//declaring a variable 
+  var b = 12;// declaring and asssigning in one line
+  a=9;//assigned a to the declared variable
+ 
+ //console.log = Allows you to see things in the console
+ var a;
+ a=7;
+ console.log(7);
+ //shows 7 on the console
+ 
+ //initializing variables with assignment operator
+ var a =17; // initialized with assignmet operator
+ 
+ //Uninitialized varaibles
+ var a = 10;
+ var b = 10;
+  c = "I am a ";
+  
+  a = a + 2;
+  b = b + 5;
+  c = c + " String";
+  
+  console.log(a);
+  console.log(b);
+  console.log(c);
+ 
+ //Case sensitivity in variables
+ var myName = "Mark";//...................1
+ var myNAme = "Mark";//....................2
+  //1 and 2 are not same variables despite the letters being same the case sensitivity applies there
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
