@@ -9,3 +9,8 @@
  Variables -- allows a computer to store data 
  To declare a variable use a var key word
  i.e var myName = "Mar";*/
+
+  //Difference between var, let and const
+  var //=used throughout  your whole program
+  //let = only be used within the scope of where you decleared that 
+  //const = a variable that can never be changed.//if you try to change it you get an error.
