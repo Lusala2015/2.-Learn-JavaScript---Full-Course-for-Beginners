@@ -191,10 +191,3 @@ var firstNamelength = 0;
 var firstName = "Marklusala";
 var firstNamelength = firstName[firstName.length -1];// change the index inside the brackets.
 console.log(firstNamelength);
-
-
-
-
-
-
-
