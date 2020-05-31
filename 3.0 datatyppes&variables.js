@@ -14,3 +14,21 @@
   var //=used throughout  your whole program
   //let = only be used within the scope of where you decleared that 
   //const = a variable that can never be changed.//if you try to change it you get an error.
+
+//Uninitialized varaibles
+ var a = 10;
+ var b = 10;
+  c = "I am a ";
+  
+  a = a + 2;
+  b = b + 5;
+  c = c + " String";
+  
+  console.log(a);
+  console.log(b);
+  console.log(c);
+ 
+ //Case sensitivity in variables
+ var myName = "Mark";//...................1
+ var myNAme = "Mark";//....................2//1 and 2 are not same variables despite the letters being same the case sensitivity applies there
+  
