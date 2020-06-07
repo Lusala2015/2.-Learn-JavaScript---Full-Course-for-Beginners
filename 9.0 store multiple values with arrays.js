@@ -12,9 +12,18 @@ var firstStudentScoreontheScoreshit = marksScored[0];
 
 console.log(firstStudentScoreontheScoreshit);
 
-// modifying arrays data with index 
+// modifying arrays data with indexes
 
 var myData = [2,3,4,5,6,7];
 
 myData[1] = 90;
 console.log(myData); 
+
+//Accessing multiple-Dimensional arrays with indexes
+
+// set up
+var myarray = [[1,2,3], [4,5,6],[7,8,9],[[10,22,23],[12,45,67,89,34],[3,6,4,8,9]]]
+
+// only change the code below 
+var myData = myArray[0][0]
+console.log(myArray);
