@@ -46,3 +46,13 @@ console.log(ourArray);
 var ourArray = [1,2,3];
 var removedFromOurArray = ourArray.shift();
 console.log(ourArray);
+
+var ourAray = ["stimpson","j","cat"];
+ourAray.shift();
+ourArray.unshift("happy");
+
+var myArray = [["john",23],["cat",2]];
+
+myArray.shift();
+console.log(ourArray);
+console.log(myArray);
