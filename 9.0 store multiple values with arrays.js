@@ -56,3 +56,8 @@ var myArray = [["john",23],["cat",2]];
 myArray.shift();
 console.log(ourArray);
 console.log(myArray);
+
+//Manipulate arrays with push
+var myArray = ["junior", "analia"];
+myArray.push(["sana"]);
+console.log(myArray);
