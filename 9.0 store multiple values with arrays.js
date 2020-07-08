@@ -82,3 +82,4 @@ myAr.unshift(["aul", 40]);
 console.log(myAr);
 
 //shopping list
+var myList = [["cearals", 3],["milk",4],["bananas",7],["juice",10],["eggs",6]];
