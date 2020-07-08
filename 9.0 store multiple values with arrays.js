@@ -75,3 +75,8 @@ var removedFromMyArr = myArr.shift();
 console.log(myArr);
 
 //manipulate arrays with unshift ()
+var myAr = [["mark", 4], ["emma", 5]];
+
+myAr.unshift(["aul", 40]);
+
+console.log(myAr);
