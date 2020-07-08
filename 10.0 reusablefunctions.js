@@ -3,6 +3,5 @@ function ourReusableFunction (){
 }
 
 ourReusableFunction();
-ourReusableFunction();
-ourReusableFunction();
-ourReusableFunction();
+
+// passing values to functions with arguments 
