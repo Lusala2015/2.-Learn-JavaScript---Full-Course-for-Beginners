@@ -63,3 +63,9 @@ myArray.push(["sana"]);
 console.log(myArray);
 
 //manmipulate arrays with pop()
+var myArray = [["john",23],["cat",2]];
+
+var removedFromMyArray = myArray.pop();
+console.log(myArray);
+
+//manipulate arrays with shift() 
